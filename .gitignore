@@ -1,0 +1,7 @@
+
+*.prefs
+.classpath
+*.txt
+*.class
+target/classes/META-INF/spring.factories
+.project
