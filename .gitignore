@@ -5,3 +5,4 @@
 *.class
 target/classes/META-INF/spring.factories
 .project
+.DS_Store
